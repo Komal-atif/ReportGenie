@@ -1,0 +1,5 @@
+{
+  "name": "Report Genie",
+  "description": "AI-powered lab report summarizer that translates complex medical terms into patient-friendly language.",
+  "requestFramePermissions": []
+}
